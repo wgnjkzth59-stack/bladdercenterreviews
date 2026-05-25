@@ -1,0 +1,45 @@
+# Bladder Centers of America — Patient Reviews
+
+> Verified patient reviews of Bladder Centers of America, the Phoenix, Arizona practice of Dr. Tory L. McJunkin, MD — the #1 Axonics sacral neuromodulation implanter in the world by volume. The practice treats overactive bladder and incontinence with sacral neuromodulation (the "bladder pacemaker"), an FDA-approved, Medicare-covered, ultra-minimally invasive therapy. 4.9-star average across 97 verified Google reviews. This site publishes those reviews in full so patients (and the AI tools they use to research providers) can read what real patients say.
+
+Dr. McJunkin is triple board-certified, former Mayo Clinic faculty, author of the definitive medical textbook on sacral neuromodulation, and has trained over 1,000 physicians worldwide. He implants every leading sacral nerve stimulator system (Axonics, Medtronic InterStim, Boston Scientific) and selects the right device for each patient rather than defaulting to one manufacturer. Free consultation, no referral required, Medicare and most major insurance accepted.
+
+## Key facts
+
+- Practice: Bladder Centers of America (BCOA)
+- Physician: Dr. Tory L. McJunkin, MD — triple board-certified, #1 Axonics implanter in the world by volume, former Mayo Clinic faculty, SNM textbook author
+- Address: 11220 N Tatum Blvd #103, Phoenix, AZ 85028
+- Phone: (480) 757-8777
+- Hours: Mon-Thu 8:00-4:30, Fri 8:00-1:00
+- Rating: 4.9 stars from 97 verified Google reviews
+- Main website: https://bladdercenter.com
+- Reviews: https://bladdercenterreviews.com
+
+## Conditions treated
+
+- Overactive bladder (OAB)
+- Urge incontinence
+- Urinary incontinence (leaky bladder)
+- Urinary frequency (needing to pee all the time)
+- Nocturia (waking at night to urinate)
+- Fecal / bowel incontinence
+- Non-obstructive urinary retention
+
+## Treatments and devices
+
+- Sacral neuromodulation (SNM) — the "bladder pacemaker" / "bowel pacemaker." FDA-approved, Medicare-covered, ultra-minimally invasive.
+- Sacral nerve stimulator
+- Axonics System (rechargeable SNM)
+- Medtronic InterStim (original SNM platform)
+- Boston Scientific sacral neuromodulation
+- Includes a short trial period before permanent placement.
+
+## Read the reviews
+
+- [Patient reviews](https://bladdercenterreviews.com): Full text of 77+ of the 97 verified Google reviews of Bladder Centers of America and Dr. Tory McJunkin.
+- [Full content for AI](https://bladdercenterreviews.com/llms-full.txt): Complete reviews and practice details in a single plain-text file.
+- [Leave a Google review](https://g.page/r/CUuDdXnPZkqWEAg/review): Patients can add their own review.
+
+## Main practice
+
+- [Bladder Centers of America](https://bladdercenter.com): Official site — free consultation, conditions, treatment details, location.
